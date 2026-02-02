@@ -15,7 +15,7 @@ from dash import Dash, dcc, html, Input, Output, State
 CSV_PATH = "/home/maria/MouseBox/selected_data/models/gpu_working/video_preds/session_view.csv"
 
 # Must exist under ./assets/video_frames
-VIDEO_FRAMES_URL = "/assets/video_frames"
+VIDEO_FRAMES_URL = "/assets/video_frames_kp"
 
 
 # =========================
